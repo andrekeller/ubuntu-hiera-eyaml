@@ -1,7 +1,7 @@
 --- !ruby/object:Gem::Specification
 name: hiera-eyaml
 version: !ruby/object:Gem::Version
-  version: 2.0.5
+  version: 2.0.6
   prerelease: 
 platform: ruby
 authors:
@@ -9,7 +9,7 @@ authors:
 autorequire: 
 bindir: bin
 cert_chain: []
-date: 2014-12-11 00:00:00.000000000 Z
+date: 2014-12-13 00:00:00.000000000 Z
 dependencies:
 - !ruby/object:Gem::Dependency
   name: trollop
