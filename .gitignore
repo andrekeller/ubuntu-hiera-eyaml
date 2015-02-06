@@ -8,3 +8,9 @@ tmp/
 .rvmrc
 .ruby-version
 .ruby-gemset
+/debian/ruby-hiera-eyaml.*.debhelper
+/debian/ruby-hiera-eyaml.*.log
+/debian/ruby-hiera-eyaml.substvars
+/debian/ruby-hiera-eyaml
+/debian/files
+/.pc

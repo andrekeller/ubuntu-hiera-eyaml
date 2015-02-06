@@ -1,0 +1,5 @@
+ruby-hiera-eyaml (2.0.5-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #nnnn)
+
+ -- André Keller <andre.keller@vshn.ch>  Fri, 06 Feb 2015 11:51:50 +0100

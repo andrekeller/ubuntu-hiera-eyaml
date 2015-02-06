@@ -1,0 +1,18 @@
+Source: ruby-hiera-eyaml
+Section: ruby
+Priority: optional
+Maintainer: Debian Ruby Extras Maintainers <pkg-ruby-extras-maintainers@lists.alioth.debian.org>
+Uploaders: André Keller <andre.keller@vshn.ch>
+Build-Depends: debhelper (>= 7.0.50~), gem2deb (>= 0.6.1~)
+Standards-Version: 3.9.4
+#Vcs-Git: git://anonscm.debian.org/pkg-ruby-extras/ruby-hiera-eyaml.git
+#Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-ruby-extras/ruby-hiera-eyaml.git;a=summary
+Homepage: http://github.com/TomPoulton/hiera-eyaml
+XS-Ruby-Versions: all
+
+Package: ruby-hiera-eyaml
+Architecture: all
+XB-Ruby-Versions: ${ruby:Versions}
+Depends: ${shlibs:Depends}, ${misc:Depends}, ruby | ruby-interpreter, ruby-trollop (>= 2.0), ruby-highline (>= 1.6.19)
+Description: OpenSSL Encryption backend for Hiera
+ Hiera backend for decrypting encrypted yaml properties

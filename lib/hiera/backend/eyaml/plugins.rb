@@ -1,4 +1,3 @@
-require 'rubygems'
 
 class Hiera
   module Backend
