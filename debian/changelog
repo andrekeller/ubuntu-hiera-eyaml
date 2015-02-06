@@ -1,5 +1,5 @@
-ruby-hiera-eyaml (2.0.5-1) UNRELEASED; urgency=medium
+ruby-hiera-eyaml (2.0.5-1) trusty; urgency=medium
 
   * Initial release (Closes: #nnnn)
 
- -- André Keller <andre.keller@vshn.ch>  Fri, 06 Feb 2015 11:51:50 +0100
+ -- André Keller <andre.keller@vshn.ch>  Fri, 06 Feb 2015 13:26:19 +0100
